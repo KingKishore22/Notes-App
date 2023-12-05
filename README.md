@@ -1,6 +1,6 @@
 # NOTES APPLICATION
 
-A new Flutter project.
+Its a Notes Application using SQLite Database and Provider.
 
 ## Getting Started
 

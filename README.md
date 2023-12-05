@@ -1,4 +1,4 @@
-# sqliteflutter
+# NOTES APPLICATION
 
 A new Flutter project.
 
